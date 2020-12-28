@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e19fe010-2213-487c-8e43-9514e0a5e7c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/graphviz" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/ircmaxell/php-cfg" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1m5obtQV9phTEeVhN1dc46HPLHR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../news-1.0" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e19fe010-2213-487c-8e43-9514e0a5e7c1" name="Default Changelist" comment="" />
+      <created>1608792888086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608792888086</updated>
+      <workItem from="1608792889128" duration="3406000" />
+      <workItem from="1608856794272" duration="1548000" />
+      <workItem from="1608888835105" duration="36000" />
+      <workItem from="1609145772780" duration="73000" />
+      <workItem from="1609145860794" duration="1531000" />
+      <workItem from="1609147406790" duration="3080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="182" key="#PHP" timestamp="1608793045574">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="182" key="#PHP/0.0.1920.1080@0.0.1920.1080" timestamp="1608793045574" />
+    <state x="552" y="180" key="#Plugins" timestamp="1609149053254">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="180" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1609149053254" />
+    <state x="700" y="407" key="#Project_Settings" timestamp="1609147828544">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="700" y="407" key="#Project_Settings/0.0.1920.1080@0.0.1920.1080" timestamp="1609147828544" />
+    <state x="164" y="284" key="#SonarLint" timestamp="1609147826235">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="164" y="284" key="#SonarLint/0.0.1920.1080@0.0.1920.1080" timestamp="1609147826235" />
+    <state x="718" y="419" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1608794955557">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="718" y="419" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1608794955557" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1608888871301">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1608888871301" />
+    <state x="794" y="463" key="NewPhpFileDialog" timestamp="1608793011887">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="794" y="463" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1608793011887" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1609147430918">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1609147430918" />
+    <state x="667" y="273" width="585" height="534" key="find.popup" timestamp="1608795033192">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="273" width="585" height="534" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1608795033192" />
+    <state x="432" y="294" key="org.sonarlint.intellij.config.global.wizard.ServerConnectionWizard$ServerConnectionWizardEx" timestamp="1609147825791">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="432" y="294" key="org.sonarlint.intellij.config.global.wizard.ServerConnectionWizard$ServerConnectionWizardEx/0.0.1920.1080@0.0.1920.1080" timestamp="1609147825791" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1609148480385">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1609148480385" />
+  </component>
+</project>
